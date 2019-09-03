@@ -1,0 +1,2 @@
+# TestDjango
+Blog on Django
